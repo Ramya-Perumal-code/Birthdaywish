@@ -38,5 +38,5 @@ for address in data.iterrows():
 
 # 3. If step 2 is true, pick a random letter from letter templates and replace the [NAME] with the person's actual name from birthdays.csv
 
-# 4. Send the letter generated in step 3 to that person's email address.
+# 4. Send the letter generated in step 3 to that person's email addresses in your contact.
 
